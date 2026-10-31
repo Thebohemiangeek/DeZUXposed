@@ -66,8 +66,8 @@ jobs:
       - name: Generate APK checksum
         shell: bash
         run: |
-          sha256sum app/build/outputs/apk/release/ZUXFree-Xposed-${{ github.ref_name }}.apk \
-            > app/build/outputs/apk/release/ZUXFree-Xposed-${{ github.ref_name }}.apk.sha256
+          cd app/build/outputs/apk/release
+          sha256sum ZUXFree-Xposed-${{ github.ref_name }}.apk > ZUXFree-Xposed-${{ github.ref_name }}.apk.sha256
 
       - name: Create Release and Upload APK
         uses: softprops/action-gh-release@v3
