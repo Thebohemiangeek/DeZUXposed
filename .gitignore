@@ -6,4 +6,4 @@ app/debug
 app/release
 build
 local.properties
-local.properties
+local.properties.tmp/
