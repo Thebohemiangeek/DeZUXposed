@@ -24,8 +24,11 @@ ZUXOS 2.5.10.003 (Android 17) went stable on 2026-10-30.
 
 ## v1.4: Work with the ZUXFree add-on
 
-- Once the add-on ships Google's package installer and permission controller, list their folder names in `REPLACEABLE_FEATURES` (taken from the TB323FU ROW inventory) and test the full swap on a device.
-- Add the remaining ROW features the add-on makes possible (Google Contacts, Google DocumentsUI overlays).
+Findings from the TB323FU ROW ZUI 18.0.12.104 inventory (zuxfree-addon v0.1.0):
+- The add-on ships `GooglePackageInstaller` (Google-signed) and hides `ZuiPackageInstaller`, so `REPLACEABLE_FEATURES` already matches and the ZuiPackageInstaller feature turns off when the add-on is present.
+- The global firmware has **no** standalone Google permission controller app, only Lenovo-signed overlays on the built-in module. `ZuiPermissionController` therefore stays on, which is the correct result.
+- Google Contacts installs from Play as a normal app; decide whether `ZuiContacts` should also switch off when it's installed for the user.
+- Still to do: test the full swap on a rooted device.
 
 ## Ongoing
 
