@@ -37,11 +37,11 @@ jobs:
           chmod +x gradlew
 
       - name: Build Debug APK
-        run: ./gradlew assembleDebug --stacktrace
+        run: ./gradlew testDebugUnitTest assembleDebug --stacktrace
 
       - name: Upload Debug APK Artifact
         uses: actions/upload-artifact@v7
         with:
-          name: DeZUXposed-Debug-${{ github.sha }}
+          name: ZUXFree-Xposed-Debug-${{ github.sha }}
           path: app/build/outputs/apk/debug/*.apk
           retention-days: 14

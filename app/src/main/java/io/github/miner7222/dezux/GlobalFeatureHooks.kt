@@ -8,13 +8,13 @@ internal class GlobalFeatureHooks(
             replaceMethod("com.lgsi.config.LgsiFeatures", "enabled", String::class.java) {
                 if (args.isEmpty()) return@replaceMethod callOriginal()
                 val feature = args[0] as? String ?: return@replaceMethod callOriginal()
-
-                when (feature) {
-                    in HookConstants.ENABLED_FEATURES -> true
-                    in HookConstants.DISABLED_FEATURES -> false
-                    else -> callOriginal()
-                }
+                policy.decide(feature) ?: callOriginal()
             }
         }
+    }
+
+    private companion object {
+        // One policy per process, so replacement checks hit the disk once.
+        val policy = FeaturePolicy()
     }
 }

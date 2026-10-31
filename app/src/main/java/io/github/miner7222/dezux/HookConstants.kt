@@ -60,6 +60,7 @@ internal object HookConstants {
         "LeVoiceAgent",
         "LegacyAppRestrict",
         "LenovoStore",
+        "LenovoWhatsNew",
         "LenovoXiaoTian",
         "LFHTianjiaoTablet",
         "LgsiDisableMultiUser",
@@ -68,6 +69,7 @@ internal object HookConstants {
         "NudOptimization",
         "SafeUrl",
         "StaticIpEnhancement",
+        "TabletPushOut",
         "Touchnotes_HD",
         "VideoPlayingMode",
         "WebLimit",
@@ -86,7 +88,6 @@ internal object HookConstants {
         "ZuiAutorunManager",
         "ZuiCalculator",
         "ZuiCalendar",
-        "ZuiContacts",
         "ZuiCore",
         "ZuiCoreService",
         "ZuiDefaultAppPrc",
@@ -102,9 +103,7 @@ internal object HookConstants {
         "ZuiNewBrowser",
         "ZuiNightPowerSave",
         "ZuiOMS",
-        "ZuiPackageInstaller",
         "ZuiPermission",
-        "ZuiPermissionController",
         "ZuiPrivacyShield",
         "ZuiRescueParty",
         "ZuiSecurity",
@@ -115,6 +114,17 @@ internal object HookConstants {
         "ZuiXlog",
         "ZuxWifiService",
         "xiangbb",
+    )
+
+    /**
+     * Features that are the device's only implementation of a core screen.
+     * Each is switched off only when one of the listed replacement app
+     * folders exists (see FeaturePolicy).
+     */
+    val REPLACEABLE_FEATURES = mapOf(
+        "ZuiPackageInstaller" to listOf("GooglePackageInstaller"),
+        "ZuiPermissionController" to listOf("GooglePermissionController", "GooglePermissionControllerPrebuilt"),
+        "ZuiContacts" to listOf("GoogleContacts", "Contacts"),
     )
 
     val WALLPAPER_STATIC_ARRAY_NAMES = setOf("wallpapers", "wallpapers_pandaer")

@@ -10,11 +10,11 @@ android {
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "io.github.miner7222.dezux"
+        applicationId = "io.github.thebohemiangeek.zuxfree.xposed"
         minSdk = 24
         targetSdk = 36
-        versionCode = 1060
-        versionName = "v1.0.6"
+        versionCode = 1100
+        versionName = "v1.1.0"
     }
 
     signingConfigs {

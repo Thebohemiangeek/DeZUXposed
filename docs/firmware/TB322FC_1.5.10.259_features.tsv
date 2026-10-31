@@ -1,0 +1,505 @@
+AdobeExpress	Disabled	""	This feature is used to preinstall AdobeExpress app, which is a stub app.
+AdobeLightRoom	Disabled	""	This feature is used to preinstall Adobe LightRoom app.
+AiFlashPoint	Enabled	""	This feature is used to preinstall AiFlashPoint app.
+AigcService	Disabled	""	Support AigcService apk
+AIInput	Disabled	["ZuiIMMS"]	This feature is used to AI global input.
+AiWork	Enabled	""	This feature is used to preinstall AiWork app.
+aiwork_360	Enabled	""	This feature is used to preinstall 360aiwork app.
+AmazonMusic	Disabled	""	This feature is used to preinstall Amazon Music app.
+AppClone	Enabled	""	This feature is used to enabled multi space for app clone.
+AppCloud	Disabled	""	This feature is used to preinstall AppCloud app.
+AppHub	Disabled	""	This feature is used to preinstall AppHub app.
+AppLock	Enabled	""	This feature is used to intercept application startup.
+AudioBook	Disabled	""	This feature is used to preinstall Audio Book app.
+BackgroundMusic	Enabled	""	Provide background sound resources and image display
+baiduinput	Disabled	""	This feature is used to preinstall Baidu input method app.
+BaiduNetdisk	Enabled	""	This feature is used to preinstall Baidu Netdisk app.
+BaiduNetworkLocation	Enabled	""	This feature is used to preinstall Baidu Network Location app,only PRC needs.
+BambooPaper	Disabled	""	This feature is used to preinstall Bamboo Paper app.
+BatteryMaintenance	Enabled	""	Basic feature for Lgsi power Service
+BigDataApi	Enabled	""	Basic feature for Big data management for Lgsi System
+Bilicomic	Enabled	""	This feature is used to preinstall Bilicomic app.
+BlackDesert	Disabled	""	This feature is used to preinstall Black Desert app.
+BlackDesert_JP	Disabled	""	This feature is used to preinstall Black Desert app for JP.
+BlackDesert_KR	Disabled	""	This feature is used to preinstall Black Desert app for KR.
+BlackDesert_TW	Disabled	""	This feature is used to preinstall Black Desert app for TW.
+BluetoothZUI	Enabled	""	LGSI ZUI Bluetooth UI.
+BtConnectOptimization	Enabled	""	This feature is used to link a ble devcie faster.
+CameraBlackMask	Disabled	""	This feature for privacy function to make the preview data be black.\nwhen using in the setting to privacy by security apk.
+CameraGlobalAutoFraming	Disabled	""	The feature for third party cameras to make face always in center of display.\nThis feature need the camera_global_pandora feature.
+CameraGlobalAutoFraming_lenovo	Disabled	""	The feature for third party cameras to make face always in center of display.\nThis feature need the camera_global_pandora feature.
+CameraGlobalFacebeauty_fotonation	Disabled	""	The feature for third party cameras to make the face beauty fotonation.\nThis feature need the camera_global_pandora feature.
+CameraGlobalFacebeauty_meishe	Enabled	""	The feature for third party cameras to make the face beauty meishe.\nThis feature need the camera_global_pandora feature.
+CameraGlobalPandora	Enabled	""	This feature is for system to copy nessary files to support.\nglobal pandora camera feature.
+CameraGlobalPIP	Disabled	""	The feature for third party cameras to make the Picture in Picture.\nThis feature need the camera_global_pandora feature.
+CameraGlobalPortraitMaskBlur_360	Disabled	""	The feature for third party camera apk to make portrait Mask Blur.\nThis feature need the camera_global_pandora feature.
+CameraGlobalPortraitMaskBlur_morpho	Enabled	""	The feature for third party cameras to_mask_blur_morpho.\nThis feature need the camera_global_pandora feature.
+CameraImageRotation	Enabled	""	This feature for third party camera apk to rotate the preview viewfinder.\none vision would setprop value to control the rotate angle.
+CameraScreenRecord	Enabled	""	The feature for third party cameras such as wechat or QQ to share the screen to other side.\nThis feature need the camera_global_pandora feature.
+Canva	Enabled	""	This feature is used to preinstall Canva app.
+CapCut	Enabled	""	This feature is used to preinstall CapCut app.
+Capcut_prc	Enabled	""	This feature is used to preinstall Capcut app for prc.
+Capcut_row	Disabled	""	This feature is used to preinstall Capcut app for row.
+CCSWallpaper	Disabled	["LgsiWallpaper"]	This feature is used to need CCS wallpaper,\nsuch as forcing the wallpaper to be centered
+ClearRecentsAfterReboot	Enabled	""	ClearRecents-1 When reboot clear Tasks in Recents.\nClearRecents-2 Remove the system hint dialog when enter fullscreen for the first time.\nSee INCEPTION-215 LGSIT-97
+ClipStudioPaint	Disabled	""	This feature is used to preinstall Clip Studio Paint app.
+ConnectivityResOverlay	Enabled	""	This feature is used to overlay Connectivity resource of PRC.
+Cooclip	Disabled	""	This feature is used to preinstall Cooclip app.
+CSDKSepolicy	Enabled	["LgsiCSDKPublicSepolicy"]	Featrue for sepolicy of csdk lenovocust,lenovoraw,backup\nBoth drvonly and dev branch need
+CustomLongPress	Disabled	""	Basic feature for CustomLongPress config, This feature is used to enable CustomLongPress, Custom long press imageview extract image.
+DataInterceptor	Enabled	["ZuiNetworkManagement"]	This feature is used to add the netd extended listener to report extended\nevents to framework.
+DataMonitor	Enabled	""	This application mainly includes network management.
+DataSpeedMode	Disabled	["ZuiNetworkManagement"]	This feature is used to send the uplink packet with high priority, so the\nuplink lantency will be lower when many background packets to be sent
+DataSwitchHint	Disabled	""	This feature is used to pop up enabling/disabling data switch hint when inserting a card in TW.
+DeviceIdService	Enabled	""	This feature used to produce oaid, aaid, vaid, udid and so on. Mainly used as a new device identifier to replace imei or gsn.
+DeviceTrafficLimit	Enabled	["ZuiNetworkManagement"]	This feature is used to decrease the traffics of device,\nintend to called by PowerManagementService.
+DiagnosticsAppShortcut	Enabled	""	Users can trigger Lenovo diagnostics app by pressing volume up key for 8s when\nthe volume is at maximum level.
+DiscoveryApps	Disabled	""	This feature is used to preinstall DiscoveryApps app.
+DisturbedMode	Enabled	""	This feature is used to DisturbedMode.
+DnsOptimization	Enabled	["ZuxWifiService"]	This feature is used to provide a more stable network by optimizing DNS.
+DoubleTapWakeup	Enabled	""	Set current double wakeup state to notify bsp that is set whether wakeup when double touchscreen
+DouYin	Enabled	""	This feature is used to preinstall DouYin app.
+DPPLenovoLoggerPannel	Disabled	["ZuiAplog"]	Basic common feature for ZuiAplog tool
+DragonNovel	Disabled	""	This feature is used to preinstall Dragon Novel app.
+DualPortUsb	Enabled	""	Dual port usb features: Dialog for USB dual port charging,\nUSB dual port use, USB dual port external device limit,\nand Big data for USB
+DynamicDataPartition	Disabled	""	This feature for vendor dynamic data partition.
+DynamicFeature	Disabled	""	This feature is used to enable DynamicFeature, we build all features in one image, and then enable different features\nby different configurations dynamic feature files use xml format.
+EngineeringCode	Enabled	""	This feature is used to support SecretCode, which allow RD and Tester to call\ndifferent tools. such as FactoryTest, LenovoLog and CountryCode etc.
+Epos_TabPlus	Disabled	""	This feature is used to preinstall Epos for Tab Plus app, for Kirby
+Epos_YogaTab	Disabled	""	This feature is used to preinstall Epos for Yoga Tab app, for Lapis
+ExWifi	Disabled	""	This feature is used to enable ExWifiService.
+FaceDetection	Disabled	""	Turn on 3rd camera app face detect.\nFaceDetection feature.
+FamilySpace	Disabled	""	This feature is used to preinstall FamilySpace app.
+fandeng_HD	Disabled	""	This feature is used to preinstall fandeng reading app.
+FindApps	Disabled	""	This feature is used to preinstall Find Apps app.
+FixedUserRotationWhenLocked	Disabled	["ZuiWMS"]	This feature is used to fix user rotation.\nit will fix user current rotation when user rotation mode locked
+FontSwitch	Enabled	""	This feature is used to enable Font switch, which allow End User to use\ndifferent font files, including downloaded fonts as system default font.
+ForceShutdownDialog	Enabled	""	When press power and volume down lasts 8s, show force shutdown dialog.
+Freestyle_ROW	Enabled	""	This feature is used to preinstall Freestyle ROW app.
+GameAssistant	Enabled	["ZuiMode"]	This feature is used to enabled GameAssistant which identify GameMode.
+gankao_HD	Disabled	""	This feature is used to preinstall gankao champion app.
+GoogleConnectivityResOverlay	Disabled	""	This feature is used to overlay Connectivity resource of ROW.
+GoogleNetworkStackOverlay	Disabled	""	This feature is used to overlay NetworkStack resource of ROW.
+GoogleWifiResOverlay	Disabled	""	This feature is used to overlay WifiResOverlay resource of ROW.
+GrantEMMPartner	Disabled	""	Grant perms for Lenovo collaborating EMM (Enterprise Mobility Management) partner, like SOTI, Scalefusion.\nBoth WiFi/LTE skus.\nROW only.
+GrantSQAApps	Enabled	""	Grant perms for Lenovo Software Quality Assurance apps
+HalBatteryServer	Enabled	""	Feature for battery hal server\nBoth drvonly and dev branch need
+HalDisplayServer	Enabled	""	Feature for display hal server\nBoth drvonly and dev branch need
+HalFaceImportServer	Disabled	""	Feature for battery hal server\nBoth drvonly and dev branch need
+HalFactoryServer	Enabled	""	Feature for factory hal server\nBoth drvonly and dev branch need
+HalHyperscheduleServer	Enabled	""	Feature for hyperschedule hal server
+HalKeyboardServer	Enabled	""	Feature for keyboard hal server\nBoth drvonly and dev branch need
+HalMiscServer	Enabled	""	Feature for misc hal server\nBoth drvonly and dev branch need
+HalPerformanceServer	Enabled	""	Feature for performance hal server\nBoth drvonly and dev branch need
+HalScalerServer	Disabled	""	Feature for scaler hal server\nBoth drvonly and dev branch need
+HalTouchscreenServer	Enabled	""	Feature for touchscreen hal server\nBoth drvonly and dev branch need
+HalUsbServer	Enabled	""	Feature for usb hal server\nBoth drvonly and dev branch need
+Happyelements	Disabled	""	This feature is used to preinstall Happyelements app, not lssi requirement, first integrated by cava project.
+HEC_agent	Enabled	""	This feature is used to preinstall HEC_agent app.
+HSJPRO	Enabled	""	This feature is used to preinstall huashijie PRO app.
+HyperEngine	Enabled	""	This feature is used to preinstall HyperEngine app.
+iBiliPlayer_HD	Disabled	""	This feature is used to preinstall Bilibili app.
+iFlyIME_PAD	Disabled	""	This feature is used to preinstall xunfei input method app.
+Inihibition	Enabled	["ZuiIms"]	This feature is used to inject Lgsi TouchScreen Inihibition content to AOSP.\nIt is a part of Lgsi framework and it has no actual functions.
+iqiyi	Enabled	""	This feature is used to preinstall iqiyi app.
+jiaojiao	Disabled	""	This feature is used to preinstall jiaojiao app.
+KaDaHD	Disabled	""	This feature is used to preinstall KaDaHD app.
+kaishustory	Disabled	""	This feature is used to preinstall kaishu story app.
+KeyboardBigdata	Enabled	["ZuiKeyboard"]	The feature is used to enable keyboard bigdata.
+KeyboardShortcutInput	Enabled	""	When this feature is enabled, User can send content by pressing\nCTRL + Enter with keyboard connected, this function only works in\nsome UI in WeChat, QQ, Weibo and DingDing.
+KeyguardDefaultLiveWallpaper	Disabled	["ZuiSystemUI"]	This feature is used to set lock screen default wallpaper to live wallpaper
+KeyguardUnlockViewCenter	Disabled	["ZuiSystemUI"]	This feature is used to control the password or gesture layout view of keyguard force centering\nsmall screen pad or phone need to use, for example Asphalt, P8
+KuwoPlayer_lenovoHD	Disabled	""	This feature is used to preinstall KuwoPlayer_lenovoHD app.
+KuwoPlayerHD	Disabled	""	This feature is used to preinstall Kuwo PlayerHD app.
+kwai_HD	Enabled	""	This feature is used to preinstall kwai_HD app.
+LegacyAppRestrict	Enabled	""	This feature is used to enable legacy app restrict. If on, some legacy apps would be restrict it's\nrunning  when app in background. Include service startup, broadcast receiver, job, and alarm.
+LegionSpace	Disabled	""	This feature is used to preinstall LegionSpace app.
+LegionZone	Enabled	""	This feature is used to preinstall LegionZone app.
+LenovoAINow	Disabled	""	Support LenovoAINow apk
+LenovoGtsCtsTestFlag	Enabled	""	This feature is used to enable LenovoGtsCtsTestFlag function.\nwhen some cts adn gts Package add or remove. we change persist.sys.lenovo.is_test_mode and Settings.Global.is_test_mode.\nso that other applications can get the status.
+LenovoHighBrightness	Enabled	""	Feature about high brightness, control the overall logic of high brightness.
+LenovoID	Enabled	""	This feature is used to preinstall LenovoID app.
+LenovoLoggerPannel	Enabled	["ZuiAplog"]	Basic common feature for ZuiAplog tool
+LenovoOTA	Enabled	""	Display the system update UI information from the UDSEngine application.
+LenovoPAI	Enabled	""	Implementation of the PAI module and application of the PAI preset function
+LenovoPushOut	Enabled	""	This feature is used to preinstall Lenovo PushOut app.
+LenovoSar	Disabled	""	This feature is used to enable SAR feature on pad product.Currently only ROW\nLTE SKU product is enabled, other SKU product is not.
+LenovoService	Enabled	""	This feature is used to preinstall LenovoService app.
+LenovoSmartBuy_lenovopad	Enabled	""	This feature is used to preinstall Lenovo SmartBuy app.
+LenovoStore	Enabled	""	This feature is used to preinstall Lenovo Store app.
+LenovoTianXiAgent	Disabled	["XiaotianTrigger", "LeVoiceAgent", "LenovoXiaoTian"]	This feature is used to preinstall TianXi Agent apps for PAD.
+LenovoUnity	Disabled	""	This feature is used to preinstall LenovoUnity app.
+LenovoWhatsNew	Enabled	""	Lenovo's official application upgrade channel, which is used for the online upgrade of self-developed applications. At the same time, it is equipped with the real-time push channel to strengthen the online communication and interaction ability between business and users.
+LenovoXiaoTian	Enabled	""	This feature is used to preinstall LenovoXiaoTian app.
+LeVision	Enabled	""	Faceunlock main program, provide face enroll ui interface and recognition service. Strong associations with Settings and SystemUI.
+LeVoiceAccessbility	Disabled	""	This feature is used to preinstall LeVoice Accessbility app.
+LeVoiceAgent	Enabled	""	This feature is used to preinstall LeVoice Agent app.
+LeVoiceCaptionApp	Enabled	""	This feature is used to preinstall LeVoice Caption app.
+LeVoiceCommon	Disabled	["LeVoiceAccessbility", "LeVoiceAgent", "LeVoiceCaptionApp"]	This feature is used to preinstall LeVoice Common apps.
+LeVoiceNotes	Disabled	""	This feature is used to preinstall LeVoice Notes app.
+LeVoicePad	Disabled	["LeVoiceAccessbility", "LeVoiceAgent"]	This feature is used to preinstall LeVoice apps for PAD.
+LFHTianjiaoTablet	Enabled	""	This feature is used to lgsi tianjiao mode, Collinear for Zui PRC\nAdded by project Peridot
+LgsiAMS	Enabled	""	This feature is used to inject Lgsi ActivityManager content to AOSP\nAMS. It is a part of lgsi framework and it has no actual functions.
+LgsiBaseUtils	Enabled	""	Basic feature for Lgsi Framework Utils
+LgsiBuildInfo	Enabled	""	Sku info and all features info generate to a html\nand integrate this html to device
+LgsiCCS	Disabled	""	A cloud-based-zero-touch solution for customization, which makes instant\nchanges to transform the Tablets for your business.
+LgsiCommonProperty	Enabled	""	Basic feature for Lgsi Common Property\nDefined sepolicy for set and get propery for domains
+LgsiCoreProp	Enabled	""	Basic feature for Lgsi Property Init\nLgsi Properties, like 'ro.config.lgsi.xxxx', need this Feature On
+LgsiCountryCode	Enabled	""	Basic feature for OneImage CountryCode config,This feature is used to enable LgsiCountryCode.\nPreinstallApp must need LgsiCountryCode feature.
+LgsiCSDK	Enabled	["LgsiCSDKPublicSepolicy"]	Commercial-SDK offers APIs, which help commercialcustomers to implement device control\n(such as devicemanagement, app management, firewall, kiosk modecustom UI. connectivity etc)
+LgsiCSDKPublicSepolicy	Enabled	""	Just contains public sepolicy of LgsiCSDK\nreal sepolicy have been defined in lenovo/lgsi/drvonly/sepolicy/csdk_public dir
+LgsiDisableMultiUser	Enabled	""	disable multi user config, this is default config of aosp code
+LgsiEnableMultiUser	Disabled	""	enable multi user config
+LgsiEyeProtectionMode	Enabled	""	enable the aosp eye protection
+LgsiFwResOverlay	Enabled	""	This feature used to overlay framework resource.
+LgsiHotSwapCapable	Disabled	""	sim card hot swap
+LgsiHyperScheduler	Enabled	""	This feature is enable lgsi hyper scheduler function.
+LgsiIMMS	Enabled	""	This feature is used to inject Lgsi InputMethodManagerService content to AOSP\nIMMS. It is a part of Lgsi framework and it has no actual functions.
+LgsiLenovoAware	Disabled	""	Basic feature for tof sensor service\nBuild LgsiLenovoAware to systam and enable intelligent screen,distance reminder,near light up.
+LgsiMemdisk	Disabled	""	Support memdisk for virtualization.
+LgsiMobileDataOff	Enabled	""	config mobile data capable as false
+LgsiOMS	Enabled	""	This feature is used to inject LGSI OverlayManagerService content to AOSP\nOMS. It is a part of Lgsi framework and it has no actual functions.
+LgsiOneImageProp	Enabled	["LgsiCoreProp"]	Basic feature for OneImage property process\nAfter enable this feature, do not build product name and fingerprint property,\nwould dynamic generate these properties by country code.\nFor some porject just have prc, do not need enable this feature.
+LgsiPermission	Enabled	""	This feature contains a standalone SystemService for permission related features.\nNow it includes PermissionDebugService.\nPermissionDebugService provides CLI to dynamically toggle log for permission events.
+LgsiPMS	Enabled	""	This feature is used to inject Lgsi Package Manager Service content to AOSP\nPWM. It is a part of Lgsi framework and it has no actual functions.
+LgsiPropertyServiceHook	Disabled	""	Basic feature for Lgsi Property Service Hook.\nSome project need some special opration of property service.\nSo, add hook for it.
+LgsiPWM	Enabled	""	This feature is used to inject Lgsi PhoneWindowManger content to AOSP\nPWM. It is a part of lgsi framework and it has no actual functions.
+LgsiRandomSN	Disabled	["LgsiCoreProp"]	Basic feature for LGSI project random SN\nIf device have no SN, generate random SN for LGSI test.
+LgsiScreenSplit	Enabled	""	Used to select app to enter split screen.
+LgsiServiceMain	Enabled	""	Basic feature for Lgsi System Server Injection\nBuild LgsiSystemServer to systam and start all services enabled defined in *feature_config.xml
+LgsiTempNotRunOverlayRemounter	Disabled	""	Temp solution for can not boot after remount
+LgsiWallpaper	Enabled	""	This feature is used to inject Lgsi WallpaperManagerService and WallpaperManager\ncontent to AOSP, It is a part of Lgsi framework and it has no actual functions.
+LgsiWMS	Enabled	""	This feature is used to inject Lgsi WindowManagerService content to AOSP\nWMS. It is a part of lgsi framework and it has no actual functions.
+LgsiZeroBatteryWarning	Enabled	""	This feature is used to show a warning dialog for user when the battery level to 0.
+lightning_HD	Disabled	""	This feature is used to preinstall lightning app.
+LongPressPowerStartLevoice	Enabled	""	LPP to start LeVoice assistant, PRC only.
+LongScreenShot	Enabled	""	long srceenshot used by systemUI
+LongtimeChargingProtect	Enabled	["BatteryMaintenance"]	This feature is used to enable Battery Protection Mode on pad. When the pad\nhas been charging for 7*24h, notify BSP to limit battery level to 45%~55%.\nThere is also a switch entry in Settings app to manually apply the limit.\nGet details of this feature in LGIST-19
+LowLatencyMode	Disabled	""	This feature is used to decrease the radio link latency of the\nmain sim when device in game mode.
+LTHD	Enabled	""	This feature is used to preinstall LTHD app.
+MainSubAclr	Disabled	""	This feature is used to raise the radio performence of main SIM\nby disabling the secondary SIM when device in game mode.
+MiguPlay	Enabled	""	This feature is used to preinstall MiguPlay app.
+MiniGame	Enabled	""	This feature is used to preinstall MiniGame app.
+MobileDataPrefer	Disabled	""	This feature is used to set the specified app to use mobile data though\nwifi is connected.
+Moffice_196	Enabled	""	This feature is used to preinstall Moffice 196 version app
+Moffice_PRC	Disabled	""	This feature is used to preinstall Moffice PRC app.
+Moffice_ROW	Disabled	""	This feature is used to preinstall Moffice ROW app.
+mojiweather_HD	Disabled	""	This feature is used to preinstall moji weather HD app.
+MotoReadyFor	Enabled	""	This feature is used to add Moto ReadyFor.
+MyScript_Calculator	Disabled	""	This feature is used to preinstall MyScript Calculator app.
+MyScript_Nebo	Disabled	""	This feature is used to preinstall MyScript Nebo app.
+NetflixActivation	Disabled	""	This feature is used to preinstall NetflixActivation app.
+NetflixStub	Disabled	""	This feature is used to preinstall NetflixStub app.
+NetflixStubDebug	Disabled	""	This feature is used to preinstall NetflixStub Debug app.
+NetworkDiag	Disabled	["ZuiNetworkManagement"]	This feature is used to check whether the network is bad, give a UI to user\nto start, and it will provide fix suggestion if network can be fixed.
+NetworkLatencyOptimizer	Enabled	["ZuiNetworkManagement"]	This feature is used to decrease the latency when playing game.
+NetworkStackOverlay	Enabled	""	This feature is used to overlay NetworkStack resource of PRC.
+NewTvMiniLive	Disabled	""	This feature is used to preinstall NewTv Mini Live app.
+NoteIn	Disabled	""	This feature is used to preinstall Notein app.
+NotificationCustomize	Enabled	""	This feature is used to custom notification layout to zui style.
+NrPowerSave	Disabled	""	This feature is used to un-reg the NR to save the battery when\ndevice screen off in NSA mode or device enter doze in SA mode.
+NtfsSupport	Enabled	""	This feature is used to ntfs support.
+NudOptimization	Enabled	["ZuxWifiService"]	This feature is used to provide a more stable network by optimizing NUD failure events.
+OfficeUnion	Disabled	""	This feature is used to preinstall OfficeUnion app.
+OMRON	Disabled	""	This feature is used to preinstall OMRON input method app,onlu JP needs.
+OneNote	Disabled	""	This feature is used to preinstall OneNote app.
+OnlineTheme	Enabled	""	This feature is used to enable online theme,which is only available\nin PRC Products.
+Opera	Disabled	""	This feature is used to preinstall Opera browser app.
+OperaProvider	Disabled	""	This feature is used to preinstall Opera Provider app.
+OtaNoneCompression	Disabled	""	This feature is used to enabled the none compression mode.
+PointerAcrossScreen	Enabled	""	When in extend projection mode, make pointer can across between the two screens.
+PowerVolumeKeyCombo	Enabled	""	Power and volume key combination to trigger screenshot or screenrecording.
+PreinstallApp	Enabled	["LgsiCountryCode"]	This feature is used to enable preinstall apps function.\nWe put some thirt-part apps into system/preinstall and oem/preinstall dir,\nwhen system boot,PackageManagerService will scan these two dirs, install apps in there.\nPreinstallApp must need LgsiCountryCode feature.
+PrivacyLight	Disabled	""	Turn on light when accessing front camera.\nPrivacyLight feature.
+PropertyCompatible	Enabled	""	Featrue for sepolicy of lgsi common property. ex. odm.lenovo\nBoth drvonly and dev branch need
+QcomModemlog	Enabled	""	This feature is defined for Qualcomm modemlog.
+QcrilLog	Disabled	""	This feature is used to config sepolicies of Qcom platform.
+QQMusic	Disabled	""	This feature is used to preinstall QQ Music app.
+QuanMinKGe	Disabled	""	This feature is used to preinstall QuanMinKGe app.
+ReadyForCore	Enabled	["ReadyForCorePublicSepolicy"]	This feature is used to add Mot ReadyForCore.
+ReadyForCorePublicSepolicy	Enabled	""	Just contains public sepolicy of ReadyForCore
+RemoveKeyguardRemoteAnim	Disabled	["ZuiWMS"]	This feature is used to remove remote keyguard animation\nRun Keyguard animation as remote animation in System UI instead of local\nanimation in the server process.
+RuStore	Disabled	""	This feature is used to preinstall RuStore app.
+SafeUrl	Enabled	["ZuiNetworkManagement"]	This feature is used to filter the user visited urls for most popular\nbrowsers, give a dialog to notify the darngerous website.
+Sample1	Enabled	["Sample2"]	A sample feature for feature control
+Sample2	Enabled	""	Another sample feature for feature control
+ScreenDefaultLand	Enabled	["ZuiWMS"]	This feature is used to support recording screen orientation landscape,\nand keep this orientation when DUT reboots.
+ShapedIcon	Enabled	""	Provide shaped icon to launcher apps.
+SmartConnect	Enabled	["MotoReadyFor", "ReadyForCore"]	This feature is used to add MotoDesktop.
+SmarterReader	Disabled	""	This feature is used to preinstall SmarterReader app.
+SmartNwSelect	Disabled	""	This feature is used for device with sim, to find out the better RAT to\nregister according to network quality(signal, latency), scenario etc.
+SogouInput	Enabled	""	This feature is used to preinstall Sogou Input method app.
+SoterService	Disabled	""	This feature is used to wechat soter
+SpecialPermissionPreGrant	Enabled	""	This feature grant some special permission to some apps.\ne.g. Grant SYSTEM_ALERT_WINDOW to com.zui.udevice
+Squid	Disabled	""	This feature is used to preinstall Squid app.
+StaticIpEnhancement	Enabled	""	This feature is used to provide a intelligent static ip distribution mechanism.
+StylusBigdata	Enabled	["ZuiStylusPenManager"]	Enable zui stylus bigdata.
+StylusPenBoostMTK	Disabled	["ZuiIms", "ZuiStylusPenManager", "ZuiStylusPenBigpalm"]	Limit the min cpu freq at a spec percent 60 70 ro 85 likely, for mtk platform.
+StylusPenBoostQCOM	Enabled	["ZuiIms", "ZuiStylusPenManager", "ZuiStylusPenBigpalm"]	Limit the min cpu freq at a spec percent 60 70 ro 85 likely, for qcom platform.
+SwitchInitAndSync	Enabled	""	This feature used to underlying function switch init and sync.\nCound init or sync property and settings
+TabletPushOut	Enabled	""	Lenovo Device Service Support. This application is used for business to collect device activation data, which is important business data.
+TabletUE	Enabled	["TabletUEPublicSepolicy"]	This feature is used to preinstall UserExperience app and native service.
+TabletUEPublicSepolicy	Enabled	""	Just contains public sepolicy of TabletUE.
+TabletVantage	Enabled	["TabletVantagePublicSepolicy"]	This product relies on multi-dimensional platforms such as CMS\UPE, data labeling system, Push center, real-time connection engine, NPS backend, and user feedback backend,Build a one-stop interactive service platform that connects with users in real-time, aggregates device information, helps users better utilize their devices in the network, and enhances online operation capabilities to maintain good user relationships
+TabletVantagePublicSepolicy	Enabled	""	Just contains public sepolicy of TabletVantage
+TdxIdentifyUnknownNumbers	Disabled	""	This application mainly includes strange number recognition.
+ThalesLPA	Disabled	""	ThalesLPA for eSIM, add by sycamore.
+ThemeSettings	Enabled	""	This feature is used to integrate ZuiThemeSettings apk, which is the\nAPP for theme downloading and switching function.
+ThemeSwitch	Enabled	""	This feature is used to enable Theme switch, which allow End User to switch\ndifferent themes. The switch of theme includes the changes of launcher icons\nand wallpapers.
+ThemeWidget	Enabled	""	This feature is used to enable theme widget displayed in launcher.
+Tide	Disabled	""	This feature is used to preinstall Tide app.
+Touchnotes_HD	Enabled	""	This feature is used to preinstall Touchnotes app.
+UBioFingerprint	Disabled	""	This feature is used to enable biometric fingerprint.\nMainly for hardware fingerprints, such as power fingerprint, side fingerprint,\nback fingerprint, etc.
+UDCplatform	Enabled	""	This feature is used to preinstall UDCplatform app.
+UDSEngine	Enabled	""	1.Check system updates through the OTA server,and send data to LenovoOTA application.\n2.Obtain push message data, and send it to the TabletVantage application.
+UsbNotification	Enabled	""	Lenovo usb notification style.
+VantateResources	Enabled	""	LenovoVantage Dynamic Resource Kit,configuraiton files,media files,translation files.
+VendorCommonSepolicy	Enabled	""	Featrue for vendor common sepolicy\nBoth drvonly and dev branch need
+VideoPlayingMode	Enabled	["ZuiMode"]	This feature is used to enabled VideoPlayingMode.\nVideoPlayingMode identify the status of full screen video playback, send notification to listeners.
+Wangyiyun	Enabled	""	This feature is used to preinstall Wangyiyun app.
+WebLimit	Enabled	["DataInterceptor", "ZuiNetworkManagement"]	This feature is used to block user to visit the specified webs, it usually\nas a part of LearnMode.
+Weibo_HDwm	Enabled	""	This feature is used to preinstall Weibo HD app.
+WifiDiagIndication	Enabled	""	This feature is used to enable diagnostic indication.
+WifiResOverlay	Enabled	""	This feature is used to overlay WifiResOverlay resource of PRC.
+WifiRoamingDynamicThreshold	Enabled	["ZuiNetworkManagement"]	This feature is used to set dynamic wifi roaming threshold for Qualcomm platform.
+xiangbb	Enabled	""	This feature is used to preinstall xiangbangbang app.
+xiaohongshu	Disabled	""	This feature is used to preinstall xiaohongshu app.
+XiaotianTrigger	Enabled	""	This feature is used to preinstall XiaotianTrigger app.
+xmly_children	Disabled	""	This feature is used to preinstall xmly_children app.
+XtsMusic	Enabled	""	This feature is used to preinstall XtsMusic app.
+XuiEasySync	Enabled	""	This feature is used to preinstall Cloud Service app.
+Youku	Enabled	""	This feature is used to preinstall Youku player app.
+YouzoOffice	Disabled	""	Support YouzoOffice apk
+ZuiActivityNotify	Enabled	["ZuiPerformanceManager"]	For system apps to notify activity change.
+ZuiAdjCustomize	Enabled	""	Enable this feature to customize adj of some applications(like a game) to realize background priority to keep alive.
+ZuiAIAssistant	Disabled	""	Support ZuiAIAssistant apk
+ZuiAICloudOnlyPrc	Disabled	["ZuiAIService", "ZuiAILens", "ZuiAIStylus", "ZuiAIAssistant"]	Indicate the project need only prc cloud ai.
+ZuiAICloudOnlyPrcNoStylus	Disabled	["ZuiAIService", "ZuiAILens"]	Indicate the project need only prc cloud ai.
+ZuiAICloudOnlyRow	Disabled	["ZuiAIService"]	Indicate the project need only row cloud ai.
+ZuiAILens	Enabled	""	Support ZuiAILens apk
+ZuiAILocalLlmPrc	Enabled	["ZuiAIService", "ZuiAILens", "ZuiAIStylus"]	Indicate the project need local llm.
+ZuiAILocalLlmWithRagPrc	Disabled	["ZuiAIService", "ZuiAILens", "ZuiAIAssistant", "ZuiAIStylus", "YouzoOffice", "AigcService"]	Indicate the project need local llm with rag.
+ZuiAILocalLlmWithRagPrcNoStylus	Disabled	["ZuiAIService", "ZuiAILens", "ZuiAIAssistant", "YouzoOffice", "AigcService"]	Indicate the project need local llm with rag.
+ZuiAILocalLlmWithRagRow	Disabled	["ZuiAIService", "LenovoAINow", "YouzoOffice", "AigcService"]	Indicate the project need local llm with rag.
+ZuiAIService	Enabled	""	Support ZuiAIService apk
+ZuiAIStylus	Enabled	""	Support ZuiAIStylus apk
+ZuiAlarm	Enabled	""	Support lgsi apk  alarm.
+ZuiAMS	Enabled	["LgsiAMS"]	This feature is used to inject Zui ActivityManager content to Lgsi\nAMS. It is a part of Zui framework and it has no actual functions.
+ZuiAntiCrossSell	Enabled	""	Enable this feature to anti crossing sell to South Korea
+ZuiAntutuForbidden	Enabled	""	To forbid antutu's installation on development stage.
+ZuiAplog	Enabled	["ZuiNetworkManagement", "ZuiAplogPublicSepolicy"]	Basic common feature for ZuiAplog tool
+ZuiAplogPublicSepolicy	Enabled	""	Just contains public sepolicy of ZuiAplog tool
+ZuiAppFreeze	Enabled	["ZuiPerformanceManager"]	For some processes that do not interact with users, limit these processes\nto the maximum extent without killing these processes.
+ZuiAppStartAnimation	Disabled	["ZuiWMS"]	This feature is used to move app start animation from RemoteTransitionHandler to DefaultTransitionHandler
+ZuiAudioDpin	Disabled	""	When the PC is projected onto the pad, sound output from the pad.
+ZuiAudioWhitelist	Enabled	""	Check the app is music or video app to switch dolby effect mode.
+ZuiAutoBrightness	Enabled	""	This feature is used to enable ZuiAutoBrightness.
+ZuiAutoColorTemp	Disabled	""	Feature about auto colortemp.
+ZuiAutoColorTempOnQcom	Disabled	["ZuiAutoColorTemp"]	Feature about auto colortemp on qcom.
+ZuiAutoRefreshRate	Enabled	["ZuiPerformanceManager"]	This feature is used to enable native ZuiAutoRefreshRate.\nWhen screen is still, we apply 30,\nWhen there is a quick fling, quick scroll, or animation detected, we apply 120.\nOther times, we apply 60 or other refresh rate app acquires.
+ZuiAutorunManager	Enabled	["ZuiActivityNotify"]	This feature is used for enable ZuiAutorunManager App System Functions\nControl the automatioc start or relative start of applications
+ZuiBatteryDate	Enabled	""	This feature is used to get/set battery producted and activate date.
+ZuiBatteryMaintenanceV2	Enabled	""	This feature is used to enable ZUI Battery Maintenance V2, the detile see LGSIT-15152
+ZuiBatteryManager	Enabled	""	This feature is used to add zuibatterymanager aidl and service for app
+ZuiBgIntent	Enabled	""	This feature is used for enable ZuiBgintent App System Functions\nAllows background intents for parts of the app
+ZuiBindCore	Enabled	["ZuiBindCoreHelper"]	For Choreographer to bind core.
+ZuiBindCoreHelper	Enabled	["ZuiPerformanceManager"]	For ZuiPP and Choreographer to bind core.
+ZuiBrightness	Disabled	""	Feature about zui customized brightness.
+ZuiBrightnessForInception	Disabled	""	Feature about inception brightness,together with bsp made special processing for backlight\ntransmission.
+ZuiBrowser	Disabled	""	This feature is used to preinstall Zui Browser app, package name is com.lenovo.browser.hd.
+ZuiCABC	Disabled	""	This feature is used to enabled feature for CABC
+ZuiCalculator	Enabled	""	Support lgsi apk  calculator.
+ZuiCalendar	Enabled	""	Support lgsi apk  calendar.
+ZuiCallSettings	Disabled	""	This application mainly includes call settings.
+ZuiCamera	Enabled	""	Support zuiCamera apk
+ZuiCameraAssistant	Enabled	""	Support zuicameraAssitant apk
+ZuiCameraHal	Enabled	["ZuiCameraHalPublicSepolicy"]	Basic feature for ZuiCamera Hal config,This feature is used to enable ZUI Camera Hal.\nSystem Camera app must need ZuiCameraHal feature.
+ZuiCameraHalPublicSepolicy	Enabled	""	Just contains public sepolicy of ZuiCameraHal
+ZuiCameraQR	Enabled	""	support zuicameraQR apk
+ZuiCameraSensorClientService	Enabled	""	Basic common feature for ZuiCameraSensorClientService
+ZuiCaptureSecureLayer	Enabled	["ZuiSystemUI"]	This feature is used to capture secure layer, need to prompt message and not\nreturn black image
+ZuiChannelRotation	Enabled	""	Audio Channel add left right audio channel switch function.
+ZuiChargeRate	Enabled	""	This feature is used to enable ZUI float charge and quick charge.
+ZuiClone	Enabled	["ZuiClonePublicSepolicy"]	This feature is used in the ZuiClone application for data migration between two devices (PRC only)
+ZuiClonePublicSepolicy	Enabled	""	zui clone
+ZuiConfigNtpServer	Enabled	""	This feature is used to config NTP server and interval.
+ZuiContacts	Enabled	""	This application mainly includes contacts and contacts settings.
+ZuiContactsProvider	Enabled	""	This application mainly includes contacts provider.
+ZuiCore	Enabled	""	This feature is used to get app type.
+ZuiCoreService	Enabled	""	This application CoreService.
+ZuiCustomLauncher	Enabled	""	com.zui.calendar has a active icon showing on the launcher desktop. com.zui.launcher gets the view from com.zui.calendar and shows. So com.zui.launcher depends on com.zui.calendar. when com.zui.calendar is killed, com.zui.launcher is also killed.\nSo we should add some codes to forbid the com.zui.launcher kill when other depend's app is killed.\ncom.zui.calendar, com.zui.desklock and com.zui.email etc apps show active icons on launcher desktop. The active icons can change according to the corresponding rules. Users can know date today and present time.\ncom.zui.launcher gets the active view from com.zui.calendar, com.zui.desklock and com.zui.email etc apps, and add views. So com.zui.launcher depends on some active icons app.\n(Copy from https://zwork.lenovo.com.cn:8443/browse/ZUIS-132)
+ZuiDcBacklight	Disabled	""	This feature is used to enabled dcbacklight, Display of switches\nin settings is also controlled by this feature.
+ZuiDebug	Enabled	""	This feature used to output debug info.
+ZuiDefaultApp	Enabled	["ZuiPMS"]	This feature is used to set Zui default apps, need to write preferred activity\nfile or set role manager.
+ZuiDefaultAppPrc	Enabled	["ZuiDefaultApp"]	This feature is used to set Zui prc default apps, need to write preferred activity\nfile or set role manager.
+ZuiDefaultAppPrcHDBrowser	Disabled	["ZuiDefaultAppPrc"]	This feature is used to set default browser app as com.lenovo.browser.hd
+ZuiDefaultAppPrcNewBrowser	Enabled	["ZuiDefaultAppPrc"]	This feature is used to set default browser app as com.lenovo.browser
+ZuiDefaultAppRow	Disabled	["ZuiDefaultApp"]	This feature is used to set Zui row default apps, need to write preferred activity\nfile or set role manager.
+ZUIDemoMode	Disabled	""	This feature is used for mall presentation
+ZuiDesktopMode	Enabled	""	OneVision desktopmode
+ZuiDialer	Disabled	""	This application mainly includes dialpad and calllog.
+ZuiDisableDumpBuffers	Disabled	""	This feature is used to resolve SF systemui launcher call dumpBuffers NPE,\ndon't want to call mAllocator->dumpDebugInfo as vender's so have NPE.
+ZuiDisplayService	Enabled	""	This feature is used to support zui display customization services
+ZuiDolbyGame	Enabled	""	Change to dolby game mode when.
+ZuiDolbyIcon	Enabled	""	Display Dolby icon in the status bar during playback.
+ZuiDolbyVision	Disabled	""	This feature is used to enable dolbyvision.
+ZuiDpOut	Enabled	""	When hdmi devices connected,user can select hdmi or speaker output audio.
+ZuiDualVibrator	Enabled	""	Feature about dual vibration and AAC RichTap
+ZuiDumpHeapBeforeOom	Enabled	""	This feature is auto dump heap before OOM.\nThreshold to dump heap: usage creases to 90% of max heap size.\nFor system_server, save heap dump at /data/anr/.\nFor apps, save heap dump at /data/data/.\nRefer to KBA-211123002427_REV_2_How_do_debug_dalvik_VM_throw_OutOfMemoryError_issue.pdf
+ZuiDynamicBlur	Enabled	""	This feature is used to support background blur in surfaceflinger
+ZuiEdgeInihibition	Enabled	["Inihibition"]	This feature is used to inject Lgsi EdgeInihibition content to AOSP.\nIt is a part of Lgsi framework and it has no actual functions.
+ZuiEmbedding	Enabled	""	OneVision MagicWindow based on Letterbox and Activity Embedding
+ZUIEpos	Enabled	""	This feature is used to play demo videos
+ZuiExtendReclaim	Enabled	""	This feature is for memory extend reclaim module
+ZuiExtendReclaimV	Enabled	""	This feature is for memory extend reclaim module
+ZuiFaceAuth	Disabled	""	ZuiFaceAuth, The overall switch for face recognition, holding the related sepolicy, copyfile, broadcast, overlay, property, etc. Strong associations with Settings and SystemUI.
+ZuiFileManager	Enabled	""	This feature is used to preinstall Zui FileManager app.
+ZuiFileTransfer	Enabled	""	Mainly providing game mode related functions
+ZuiFindMyPhone	Disabled	""	This feature is ZuiFindMyPhone.Can help you locate or lock your phone, and remotely erase all data from your phone. (PRC LTE only)
+ZuiFreeformBar	Enabled	""	OneVision Freeform SideBar.
+ZuiGallery	Enabled	""	This feature is used for preview pictures and videos (PRC only)
+ZuiGalleryWallpaperCropper	Enabled	""	This feature is used for cropping wallpaper or icons (PRC only)
+ZuiGameHelper	Enabled	""	This feature is Game Assistant, used during Game Mode period
+ZuiHandwriting	Enabled	["ZuiIms"]	Using a pen to handwriting in any editable view.
+ZuiHFWallpaper	Disabled	["ZuiSystemUI"]	This feature is used to support keyguard HF wallpaper, just support zui row product
+ZuiHighBrightness	Enabled	""	Feature about Zui high brightness, After enabled this feature, the high brightness\nmode switch will be displayed in the settings, At this time, the high brightness\nmode is affected by the switch.
+ZuiHighBrightnessCurve	Disabled	""	This feature is used to enable ZuiHighBrightnessCurve.
+ZuiHome	Enabled	""	Support lgsi apk  zuiLauncher .
+ZuiIFAA	Disabled	""	This feature is used to alipay iffaa
+ZuiImageExtraction	Disabled	""	Basic feature for Image Extraction config,This feature is used to enable ZuiImageExtraction.
+ZuiIMMS	Enabled	["LgsiIMMS"]	This feature is used to inject Zui InputMethodManagerService content to Lgsi\nIMMS. It is a part of Zui framework and it has no actual functions.
+ZuiIms	Enabled	""	This feature is used to inject Lgsi InputManagerService content to AOSP\nIMS. It is a part of Lgsi framework and it has no actual functions.
+ZuiInputStyles	Enabled	""	zui input icon styles resource overlay
+ZuiIntentResolver	Enabled	""	This feature is used to replace aosp ResolverActivity and ChooserActivity,
+ZuiJankBoost	Disabled	["ZuiJankReduction"]	The feature to boost for ZuiJankDetect.
+ZuiJankDetect	Enabled	""	Basic feature for ZuiJankDetect service.
+ZuiJankReduction	Disabled	["ZuiJankDetect"]	The feature to reduct the jank event, report by ZuiJankDetectService.
+ZuiKbFWUpdateCommon	Disabled	""	This feature is used to update keyboard firmware.\nIt is a part of Lgsi framework and it has no actual functions.
+ZuiKeyboard	Enabled	["ZuiIms", "ZuiTouchpad"]	The feature is used to enable keyboard relative function.
+ZuiKeyboardFWUpdate	Disabled	["ZuiKbFWUpdateCommon"]	This feature is used to update keyboard firmware.\nIt is a part of Lgsi framework and it has no actual functions.
+ZuiKeyboardKcm	Enabled	["ZuiKeyboard"]	The feature is used to enable keyboard KCM.
+ZuiKeyBoardRelaunch	Enabled	""	avoid relaunch when keyboard connect/disconnect.
+ZuiKeyboardUpdate	Disabled	""	The feature is used to enable keyboard firmware ota  update  function.
+ZuiKeyboardUpdateOlympia	Enabled	""	The feature is used to enable keyboard firmware for olympia ota  update  function.
+ZuiLandscape	Enabled	""	OneVision  Landscape
+ZuiLauncherPC	Enabled	""	Support lgsi apk  zuiLauncherpc.
+ZuiLauncherSDK	Enabled	""	Support lgsi apk  launchersdk.
+ZuiLDC	Disabled	""	This feature is used to enable ZUI LDC feature. If on, the backlight will be adjusted, and at the same time the contrust\nfor the display content will also be improved to keep the same user experience, and save the power consumption from\nthe screen.
+ZuiLDCBrightness	Enabled	""	This feature is part of lldc feature, used to control display brightness.
+ZUILenovoLevision	Enabled	["LeVision"]	ZUI Faceunlock main program, provide face enroll ui interface and recognition service. Support mask recognition.
+ZUILenovoLevisionLegacy	Disabled	""	Configuretion type feature. Strongly related to ZUILenovoLevision. If zui15 or zui16 upgrade to zui17 and the old algorithm version needs to be retained, this feature MUST be enabled.
+ZuiLenovoLevisionProvider	Disabled	""	ZuiLenovoLevisionProvider, For the OTA project which use the ARCSoft V1.6 algorithm. Associate an application with the same package name (com.tbsmart.levision) as ZuiLenovoLevision Feature, in order to obtain the seed for decrypting the relationship data.
+ZuiLenovoPrivacy	Enabled	""	Provide Lenovo legal information and privacy policy services
+ZuiLetterbox	Enabled	""	OneVision  Letterbox
+ZuiLmkWhiteList	Enabled	""	Sets a whitelist of apps that will not be cleaned by lmk.
+ZuiLongWakelockStandbyControl	Enabled	["ZuiPowerHibernate"]	control standby long wakelock.
+ZuiLthdShortcutKey	Disabled	["ZuiPWM"]	This feature is used to process volume key or lthd shortcut key\nsuch as interrupt power key when enroll fingerprint
+ZuiMagicVoice	Enabled	""	Integrate sound transformers for game assistants.
+ZuiMediaMuteSwitch	Enabled	""	Add media mute switch control.
+ZuiMediaUsage	Enabled	""	support apptimelimit for background audio playback
+ZuiMemoryAcceleration	Enabled	""	This feature is used for system memory cleanup.
+ZuiMessage	Disabled	""	This application mainly includes message send and receive.
+ZuiMiraVision	Enabled	["ZuiMode"]	USED to manage color mode and color temperature and color enhance for mtk
+ZuiMode	Enabled	""	This feature is used to enabled ZuiMode.\nThis is a basic function of GameAssistant, VideoPlayingMode, ZuiModeBigData.\nInclude:\n1, add fw internal api to notify process/activity/window staus.\n2, add ZuiMode service
+ZuiModeBigData	Enabled	["ZuiMode"]	This feature is used to enabled Big data report for ZuiGameMode and VideoPlayingMode work state.
+ZuiMultiProjection	Enabled	""	Control system ring notification volume.
+ZuiMultiVolume	Enabled	""	Add a volume bar to adjust each third-party app separately.
+ZuiNarrowBeam	Disabled	""	Integration narrowbeam for voip communication.
+ZuiNativePlayerControl	Enabled	""	Add new interface to control the native audio player play and pause.
+ZuiNebo	Enabled	""	This feature is to record com.myscript.nebo.lenovo big data.
+ZuiNetworkManagement	Enabled	""	Extended from AOSP NetworkManagementService, we can add our feature APIs in this service
+ZuiNewBrowser	Enabled	""	This feature is used to preinstall new Zui Browser app, Package name is com.zui.browser.
+ZuiNightPowerSave	Enabled	""	Restrict some resource at night. such as alarm, job, net etc
+ZuiNotes	Enabled	""	ZuiNotes app.
+ZuiNotesAICard	Enabled	""	Support AICard in ZuiNotes.
+ZuiNotesWithCloud	Disabled	["ZuiNotes"]	Indicate the project need cloud notes for ZuiNotes app to show different ui.
+ZuiNotification	Enabled	""	This feature is used to show Zui styled notification that can be shown on the lockscreen.
+ZuiNotSupportVibrator	Disabled	""	This feature is used to enabled feature for not support vibrator.
+ZuiOMS	Enabled	["LgsiOMS"]	This feature is used to inject Zui OverlayManagerService content to Lgsi\nPWM. It is a part of Zui framework and it has no actual functions.
+ZuiOV2Split	Enabled	["ZuiOVBase"]	OneVision split feature to control 2 split screen.
+ZuiOV4Split	Disabled	["ZuiOV2Split"]	OneVision split feature to control 4 split screen.
+ZuiOVBase	Enabled	""	OneVision base archicture feature, to support sepolicy, omservice, and jars to compile and run.
+ZuiOvCaptionBar	Enabled	["ZuiOVBase"]	OneVision Caption Bar.
+ZuiOverDischarging	Enabled	""	This feature is used to enable OverDischargingProtection Feature, when the\nuser has not use the device for a long time and the battery level is less,\nthe device will be shutdown.\nGet details of this feature in INCEPTION-10485
+ZuiOverTemperature	Enabled	""	This feature is used to enable OverTemperature, when overtemperature\nautomatic shutdown, the pop-up dialog to remind users.\nGet details of this feature in https://zwork.lenovo.com.cn:8443/browse/ZUIO-6637
+ZuiOVExtDisplay	Enabled	""	OneVision extend display
+ZuiOVFreeform	Enabled	["ZuiOVBase"]	OneVision-Freeform on Default-Display.
+ZuiOVLetterboxInSplit	Enabled	["ZuiOV2Split"]	OneVision split feature to LetterboxInSplit.
+ZuiP14KeyboardFWUpdate	Disabled	["ZuiKbFWUpdateCommon"]	This feature is used to update P14 keyboard firmware.\nIt is a part of Lgsi framework and it has no actual functions.
+ZuiPackageInstaller	Enabled	""	This feature is used to overlay package installer.
+ZuiPcMode	Enabled	""	OneVision PcMode for other display
+ZuiPenGen	Enabled	""	Support ZuiPenGen apk
+ZuiPerfBoost	Disabled	""	thie feature for performance boost
+ZuiPerformanceManager	Enabled	""	For Performance and Power.
+ZuiPerformancePolicy	Enabled	["ZuiActivityNotify"]	For ZuiPP to notify activity change.
+ZuiPermission	Enabled	""	This feature adds new custom permissions for CTA, and provide ability to record their usages.\nAlso support permission popup for apps that targetSdk lower than 23 (Android M).\nThis part should be removed when no devices would OTA to Android U, since that Android U doesn't\nsupport installation for apps with targetSdk lower than 23. While on devices OTAed to Android U,\nany apps with a targetSdkVersion lower than 23 will remain installed.\nSee https://developer.android.com/about/versions/14/behavior-changes-all#minimum-target-api-level\nThis feature works with SafeCenter app and PermissionController app which are responsible for\npermission dialog.
+ZuiPermissionController	Enabled	""	This feature is used to overlay aosp PermissionController. Provides a PermissionController that meets CTA testing requirements.
+ZuiPictureQuality	Disabled	""	This feature is used to enable PictureQuality.
+ZuiPMS	Enabled	["LgsiPMS"]	This feature is used to inject Zui Package Manager Service content to Lgsi\nPWM. It is a part of Zui framework and it has no actual functions.
+ZuiPowerHibernate	Enabled	""	extremely power save by more restriction.
+ZuiPowerKey	Disabled	["ZuiPWM"]	This feature is used to process power key,\nsuch as interrupt power key when enroll fingerprint
+ZuiPowerSave	Enabled	""	Power saving mode and preference settings related.
+ZuiPP	Enabled	""	This feature is used to performance and power features.
+ZuiPrivacyShield	Enabled	""	This feature forward SafeCenter call to camera, audio or location to disable the hardware.\nSee https://zwork.lenovo.com.cn:8443/browse/ZUIR-11100
+ZuiPWM	Enabled	["LgsiPWM"]	This feature is used to inject Zui PhoneWindowManger content to Lgsi\nPWM. It is a part of Zui framework and it has no actual functions.
+ZuiQuadChannel	Disabled	""	Integrate quad channel support.
+ZuiRaiseWake	Disabled	""	This feature is used to enable ZuiRaiseWake.
+ZuiReadingMode	Enabled	""	This feature is used to set different display effect\nwhen user choose color or blackwhite in settings app
+ZuiReadingModeLowRefresh	Enabled	""	This feature is used to set low screen refresh rate\nin reading mode if the device supports 30Hz refresh rate
+ZuiRecorder	Enabled	""	This application mainly Provide Recorder.
+ZuiRecordUsbMode	Enabled	""	Record the last selected USB mode for zui.
+ZuiRescueParty	Enabled	""	Enable this feature to change RescueParty default behavier form \"Guide user to reset factory\" to \"Show warring diag and reboot device\".
+ZuiRingtoneName	Enabled	""	Add zui ringtone sound and show zui zuiringtone name.
+ZuiRotateSeamlessly	Disabled	["ZuiWMS"]	This feature is used to enable zui rotate seamlessly.\nit will control some apps can be rotated seamlessly in all rotations
+ZuiSafeVolume	Disabled	""	When insert headphones reset volume if volume more than 50%
+ZuiScalerDpIn	Disabled	""	This feature is used to enable ZuiScalerDpIn. The display of other devices\nis output to the tablet side, and other devices can be operated and\ncontrolled through the tablet touch.
+ZuiSdac	Disabled	""	This feature is used to preinstall Zui Sdac app, provide numbers of activated devices\nfrom End Users
+ZuiSdk	Enabled	""	This feature is used to enable ZUISDK, which provide comon ZUI styled widgets\nand a few ZUI styled Themes and styles for ZUI APPs and UI popped up from system server.
+ZuiSecurity	Enabled	""	This feature is ZuiSecurity.Provide services such as memory accelerate, space clean, antivirus, and autostart manager (PRC only)
+ZuiServiceEngine	Enabled	["WebLimit"]	This application ZuiServiceEngine.
+ZuiSettings	Enabled	""	This feature is used to replace aosp Settings app, Collinear for Zui PRC and Row
+ZUISetupWizardExtPRC	Enabled	""	This feature is used for zui prc oobe
+ZUISetupWizardExtROW	Disabled	""	This feature is used for zui row oobe
+ZuiShipMode	Enabled	["ZuiWMS"]	This feature is used to integrate Ship Mode app to ROM
+ZuiShutdownAnimation	Enabled	""	This feature is used to show zui shutdown animation.
+ZuiSimContacts	Disabled	""	This application mainly includes contacts of sim.
+ZuiSingleBuffer	Enabled	""	This feature is used for single buffer
+ZuiSkipAiLens	Enabled	["PreinstallApp"]	This feature is used to skip ailens for low RAM
+ZuiSliderMapToBrightness	Enabled	""	Feature about slider map to brightnss nonlinear algorithm.
+ZuiSmoothBrightness	Disabled	""	add by poplar project,feature about smooth brightness,can expand brightness\nto greater than 255.
+ZuiSoter	Disabled	["SoterService"]	This feature is used to wechat soter
+ZuiSoundPicker	Enabled	""	Provide ringtone selectors for system applications
+ZuiSpecialPenReadyJudge	Disabled	["ZuiSpecialPenRefreshRate"]	This feature is used when special pen refresh rate is on, but rate cannot detect pen.\nFor some perticular projects like kirby (165).
+ZuiSpecialPenRefreshRate	Enabled	["ZuiAutoRefreshRate"]	This feature is used to change refreshrate to an acceptable value when pen is on.\nFor some perticular projects like asphalt (144->120).\nSome refreshrate cannot support pen event due to hardware limitation of screen,\nwe change refresh rate to another value to support pen event.
+ZuiSpecialPenWidenRange	Enabled	["ZuiSpecialPenRefreshRate"]	This feature is used when special pen refresh rate is on, but rate need to upmigrate.\nFor some perticular projects like calla (60->90).\nSimply use ZuiSpecialPenRefreshRate can not meet the requirements for primary range limit,\nwe widen the range specially for these projects, and apply new strategy in SurfaceFlinger.
+ZuiStandbyMode	Enabled	""	ZUI StandbyMode FW change and app, support the function of standby mode.
+ZuiStylusPenBigpalm	Enabled	["ZuiIms", "ZuiStylusPenManager"]	Bigpalm rejection in special apps, game 2, pen 1, normal 0.
+ZuiStylusPenBluetooth	Enabled	["ZuiIms", "ZuiStylusPenManager"]	Bt pen feature contains attach connected and remote controll etc.
+ZuiStylusPenCapacitor	Enabled	["ZuiIms", "ZuiStylusPenManager"]	Non bt pen feature contains uppper lower button etc.
+ZuiStylusPenMagnifier	Enabled	["ZuiIms"]	Magnify the area of where pen down.
+ZuiStylusPenManager	Enabled	["ZuiIms", "ZuiInputStyles"]	Pen manager.
+ZuiSystemBarColor	Enabled	""	Feature to process Zui style System Bar color, include status bar and navigation bar\n1. 3-button navigation bar support, zui have special color logic\n2. some 3rd apps status bar or navigation bar color issue fix
+ZuiSystemGesture	Disabled	["ZuiWMS"]	This feature is used to enable System gesture\nit will control all features of zui system gesture
+ZuiSystemUI	Enabled	""	This feature is used to replace aosp SystemUI app, Collinear for Zui PRC and Row
+ZuiTelecom	Disabled	""	This application mainly includes telecom service.
+ZuiTencentAssistent	Enabled	""	Game debugging and TGPA connection
+ZuiTianJiaoMode	Enabled	""	This feature is used to lgsi tianjiao mode, Collinear for Zui PRC
+ZuiTouchGesture	Enabled	""	Finger gestures, include screen gestures and touchpad gestures.
+ZuiTouchpad	Enabled	""	The feature is used to enable touchpad feature.
+ZuiUDevice	Enabled	""	This application ZuiUDevice.
+ZuiUninstallByServer	Enabled	""	Enable this feature to support uninstall pkg for whatsnew
+ZuiUTouch	Disabled	["ZuiWMS"]	This feature is used to zui UTouch gesture, need to depend on Zui WindowManaer\nand Zui OverlayManager
+ZuiVolumeCustom	Enabled	""	Control system ring notification volume.
+ZuiWallpaper	Enabled	["LgsiWallpaper"]	This feature is used to inject Zui WallpaperManagerService and WallpaperManager\ncontent to Lgsi, It is a part of Zui framework and it has no actual functions.
+ZuiWallpaperAdjust	Disabled	["ZuiWallpaper"]	This feature is used to adjust to rotate wallpaper when set wallpaper
+ZuiWallpaperKwc	Disabled	["ZuiWallpaper"]	This feature is used to keep launcher wallpaer when rotation changed.
+ZuiWallpaperSystemToLock	Disabled	["ZuiWallpaper"]	This feature is used to need migrate system wallpaper to lock wallpaper\nwhen just only set system wallpaper
+ZuiWeather	Enabled	""	This application mainly Provide Recorder.
+ZuiWidevineSecurityLevel	Enabled	""	Feature about WidevineSecurityLevel for factory
+ZuiWideVision	Enabled	""	This feature used to control ultra-wide field feature.
+ZuiWMS	Enabled	["LgsiWMS"]	This feature is used to inject Zui WindowManagerService content to Lgsi\nWMS. It is a part of Zui framework and it has no actual functions.
+ZuiXlog	Enabled	""	This feature is used to preinstall ZuiXlog app, used to collect user behavior.
+ZuxAIBatteryData	Enabled	""	This feature is used to collect the battery info for feature AI battery feature.\nRequirement for KP, the detail see: https://tbjira.lenovo.com/issue/browse/LSSIB-6455.
+ZuxBatterySocDecimal	Disabled	""	This feature is used to show a soc decimal when charging used PPS algo.
+ZuxBatteryVirtualBypass	Disabled	""	This feature is used to control the battery level to 5% ~ 20%,\nand only support for channel id = commercial.
+ZuxWifiService	Enabled	""	This feature is used to extend the capability of PRC Wifi module.

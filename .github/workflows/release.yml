@@ -61,21 +61,21 @@ jobs:
 
       - name: Rename APK
         run: |
-          mv app/build/outputs/apk/release/app-release.apk app/build/outputs/apk/release/DeZUXposed-${{ github.ref_name }}.apk
+          mv app/build/outputs/apk/release/app-release.apk app/build/outputs/apk/release/ZUXFree-Xposed-${{ github.ref_name }}.apk
 
       - name: Generate APK checksum
         shell: bash
         run: |
-          sha256sum app/build/outputs/apk/release/DeZUXposed-${{ github.ref_name }}.apk \
-            > app/build/outputs/apk/release/DeZUXposed-${{ github.ref_name }}.apk.sha256
+          sha256sum app/build/outputs/apk/release/ZUXFree-Xposed-${{ github.ref_name }}.apk \
+            > app/build/outputs/apk/release/ZUXFree-Xposed-${{ github.ref_name }}.apk.sha256
 
       - name: Create Release and Upload APK
         uses: softprops/action-gh-release@v3
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: |
-            app/build/outputs/apk/release/DeZUXposed-${{ github.ref_name }}.apk
-            app/build/outputs/apk/release/DeZUXposed-${{ github.ref_name }}.apk.sha256
+            app/build/outputs/apk/release/ZUXFree-Xposed-${{ github.ref_name }}.apk
+            app/build/outputs/apk/release/ZUXFree-Xposed-${{ github.ref_name }}.apk.sha256
           generate_release_notes: true
 
       - name: Cleanup keystore
